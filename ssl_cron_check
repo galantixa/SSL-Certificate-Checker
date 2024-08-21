@@ -1,0 +1,1 @@
+30 7 * * 1-5 /home/{username}/check-ssl.sh >> /var/log/cron.log 2>&1
